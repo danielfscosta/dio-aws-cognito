@@ -1,5 +1,5 @@
 # dio-aws-cognito
-Projeto de solução do desafio do curso de Segurança, Monitoramento e Suporte na AWS do Bootcamp AWS da DIO. Implementa exemplo prático de autentiçacão, autorização e gerenciamento de usuários para aplicações com o Amazon Cognito.
+Projeto de solução do desafio do curso de Segurança, Monitoramento e Suporte na AWS do Bootcamp AWS da DIO. Implementa exemplo prático de autenticação, autorização e gerenciamento de usuários para aplicações com o Amazon Cognito.
 
 # Enunciado
 - Utilizar os serviços Amazon Cognito, DynamoDB, API Gateway e AWS Lambda;
